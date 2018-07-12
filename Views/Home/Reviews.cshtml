@@ -1,0 +1,47 @@
+
+<html>
+    <body>
+        
+    
+<div class="container">
+    <table>
+    @foreach(var review in ViewBag.allReviews )
+    {
+
+
+            <tr>
+                <td><h4> Review for: @review.restaurant </h4></td>
+
+            @if(review.stars < 4){
+                <td>Stars<h5>@review.stars</h5></td> 
+            }
+            else{
+                <td>Stars<h2>@review.stars</h2></td> 
+            }
+           </tr>
+            <tr>                         
+                <td><h4>Reviewer: @review.user, </h4></td>
+                <td>@Convert.ToDateTime(review.visit).ToString("MMMM d, yyyy") </td> 
+            </tr>
+            <tr>
+                <td style="text-indent:50px;"><h4>@review.rev_desc</h4></td>
+            </tr>
+            <tr >
+                <td style="border-bottom:2px solid black;"></td>
+            </tr>
+    }
+    </table>
+</div>
+
+<style>
+    table{
+        border-collapse: separate;
+        
+    }
+
+</style>
+
+
+</body>
+</html>
+

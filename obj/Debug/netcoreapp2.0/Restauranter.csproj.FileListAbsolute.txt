@@ -1,0 +1,10 @@
+C:\Users\Administrator\Desktop\Dans_Git_Folder\c_sharp_stack\ORM\Entity\Restauranter\bin\Debug\netcoreapp2.0\Restauranter.deps.json
+C:\Users\Administrator\Desktop\Dans_Git_Folder\c_sharp_stack\ORM\Entity\Restauranter\bin\Debug\netcoreapp2.0\Restauranter.runtimeconfig.json
+C:\Users\Administrator\Desktop\Dans_Git_Folder\c_sharp_stack\ORM\Entity\Restauranter\bin\Debug\netcoreapp2.0\Restauranter.runtimeconfig.dev.json
+C:\Users\Administrator\Desktop\Dans_Git_Folder\c_sharp_stack\ORM\Entity\Restauranter\bin\Debug\netcoreapp2.0\Restauranter.dll
+C:\Users\Administrator\Desktop\Dans_Git_Folder\c_sharp_stack\ORM\Entity\Restauranter\bin\Debug\netcoreapp2.0\Restauranter.pdb
+C:\Users\Administrator\Desktop\Dans_Git_Folder\c_sharp_stack\ORM\Entity\Restauranter\obj\Debug\netcoreapp2.0\Restauranter.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Dans_Git_Folder\c_sharp_stack\ORM\Entity\Restauranter\obj\Debug\netcoreapp2.0\Restauranter.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\Dans_Git_Folder\c_sharp_stack\ORM\Entity\Restauranter\obj\Debug\netcoreapp2.0\Restauranter.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\Dans_Git_Folder\c_sharp_stack\ORM\Entity\Restauranter\obj\Debug\netcoreapp2.0\Restauranter.dll
+C:\Users\Administrator\Desktop\Dans_Git_Folder\c_sharp_stack\ORM\Entity\Restauranter\obj\Debug\netcoreapp2.0\Restauranter.pdb
